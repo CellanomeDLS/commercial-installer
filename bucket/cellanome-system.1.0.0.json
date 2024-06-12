@@ -12,12 +12,12 @@
        "commercial/cellanome-zlib.1.2.3-0",
        "commercial/cellanome-cuda-toolkit.11.6.2",
        "commercial/cellanome-vimba-apps.6.0.0-32034",
-       "commercial/cellanome-moxa.4.0.0-0"
+       "commercial/cellanome-moxa.4.0.0-0",
        "commercial/cellanome-wsl-instrument.1.0.2-0",
        "commercial/cellanome-model-weights.1.0.0-0",
        "commercial/analysis_service.0.1.7-0",
        "commercial/microscope-gui-package.1.6.3-0",
-       "commercial/cellanome-live-navigator.1.0.1-0",
+       "commercial/cellanome-live-navigator.1.0.1-0"
     ],
     "suggest": {
         "VioManagerSimulator": "commercial/cellanome-vio-mgr-simulator.1.0.0-0"
